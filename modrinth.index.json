@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "1.2.0",
+  "versionId": "1.2.1",
   "name": "Mineline Create",
   "summary": "Klientpakke for Mineline sin Create-server (Create + JEI)",
   "files": [

@@ -1,6 +1,6 @@
 # Mineline Create
 
-Klientpakke for Create-serveren på Mineline (`129.241.100.225`).
+Klientpakke for Create-serveren på Mineline (`create.129.241.100.225.nip.io`).
 
 <p align="center">
   <a href="https://modrinth.com/app"><img alt="Last ned Modrinth App" src="https://img.shields.io/badge/1.%20Last%20ned-Modrinth%20App-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white" height="44"></a>
@@ -9,7 +9,7 @@ Klientpakke for Create-serveren på Mineline (`129.241.100.225`).
 </p>
 
 <p align="center">
-  3. Åpne <code>Mineline-Create.mrpack</code> i Modrinth App → trykk <b>Play</b> → koble til <code>129.241.100.225</code>
+  3. Åpne <code>Mineline-Create.mrpack</code> i Modrinth App → trykk <b>Play</b> → koble til <code>create.129.241.100.225.nip.io</code>
 </p>
 
 | | |
@@ -61,11 +61,16 @@ Lag en profil for **Minecraft 1.21.1** med **NeoForge**, og legg disse i
 
 ## Koble til
 
-Mineline står allerede i serverlisten i profilen. Ellers legger du til
-`129.241.100.225`.
+«Mineline Create» står allerede i serverlisten i profilen. Ellers legger du til:
 
-Du havner i lobbyen. Gå gjennom **Create**-portalen (til høyre), bruk kompasset,
-eller skriv `/server create`. Tilbake til lobbyen kommer du med `/server lobby`.
+```
+create.129.241.100.225.nip.io
+```
 
-Vanlig survival (26.3) spiller du fortsatt med vanlig Minecraft, uten denne
+Denne adressen sender deg rett til Create-serveren. Med modpakken kan du **ikke**
+bruke den vanlige adressen (`129.241.100.225`): lobbyen og survival kjører ikke
+NeoForge, så du får «You are trying to connect to a server that is not running
+NeoForge».
+
+Vanlig survival og lobbyen (26.3) spiller du med vanlig Minecraft, uten denne
 pakken.
