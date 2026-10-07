@@ -2,7 +2,15 @@
 
 Klientpakke for Create-serveren på Mineline (`129.241.100.225`).
 
-**[⬇ Last ned Mineline-Create.mrpack](https://github.com/jotjern/mineline-create/releases/latest/download/Mineline-Create.mrpack)**
+<p align="center">
+  <a href="https://modrinth.com/app"><img alt="Last ned Modrinth App" src="https://img.shields.io/badge/1.%20Last%20ned-Modrinth%20App-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white" height="44"></a>
+  &nbsp;
+  <a href="https://github.com/jotjern/mineline-create/releases/latest/download/Mineline-Create.mrpack"><img alt="Last ned Mineline-Create.mrpack" src="https://img.shields.io/badge/2.%20Last%20ned-Mineline--Create.mrpack-f59e0b?style=for-the-badge&logo=github&logoColor=white" height="44"></a>
+</p>
+
+<p align="center">
+  3. Åpne <code>Mineline-Create.mrpack</code> i Modrinth App → trykk <b>Play</b> → koble til <code>129.241.100.225</code>
+</p>
 
 | | |
 |---|---|
@@ -21,7 +29,7 @@ oppdater profilen i launcheren.
 ### Modrinth App (enklest)
 
 1. Installer [Modrinth App](https://modrinth.com/app).
-2. Last ned `Mineline-Create.mrpack` fra lenken over.
+2. Last ned [`Mineline-Create.mrpack`](https://github.com/jotjern/mineline-create/releases/latest/download/Mineline-Create.mrpack).
 3. Dobbeltklikk filen, eller dra den inn i Modrinth App. Den lager en ny profil
    med riktig Minecraft-versjon, NeoForge og alle modsene.
 4. Trykk **Play**.
