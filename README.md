@@ -16,7 +16,7 @@ Klientpakke for Create-serveren på Mineline (`create.129.241.100.225.nip.io`).
 |---|---|
 | Minecraft | 1.21.1 |
 | Modloader | NeoForge 21.1.256 |
-| Mods | Create 6.0.10, Create Nuclear 2.0.0, CC: Tweaked 1.120.2, JEI 19.57.0.451, MezzConfig 0.6.8 |
+| Mods | Create 6.0.10, Create Aeronautics 1.3.2, Create Nuclear 2.0.0, CC: Tweaked 1.120.2, JEI 19.57.0.451, MezzConfig 0.6.8, Sable 2.0.6 |
 
 Versjonene er de samme som på serveren. Med andre versjoner blir du avvist med
 «incompatible».
@@ -27,6 +27,7 @@ oppdater profilen i launcheren.
 ## Wiki og hjelp
 
 - [Create-wiki](https://wiki.createmod.net/) – maskiner, kinetikk, tog
+- [Create Aeronautics](https://modrinth.com/mod/create-aeronautics) – luftskip og flygende kontraptions
 - [Create Nuclear-wiki](https://wiki.createnuclear.net/wiki) – reaktorer, brensel og stråling
 - [CC: Tweaked-dokumentasjon](https://tweaked.cc/) – Lua-API for datamaskinene
 - I spillet: hold **W** over en Create-gjenstand for Ponder-animasjoner, og bruk JEI for oppskrifter
@@ -54,6 +55,8 @@ Lag en profil for **Minecraft 1.21.1** med **NeoForge**, og legg disse i
 `mods`-mappen:
 
 - [Create 6.0.10](https://modrinth.com/mod/create/version/UjX6dr61)
+- [Create Aeronautics 1.3.2](https://modrinth.com/mod/create-aeronautics/version/44pLdPGg)
+- [Sable 2.0.6](https://modrinth.com/mod/sable/version/fg9dTRz9)
 - [Create Nuclear 2.0.0](https://modrinth.com/mod/createnuclear/version/TANOhO2C)
 - [CC: Tweaked 1.120.2](https://modrinth.com/mod/cc-tweaked/version/1ewzHZYg)
 - [JEI 19.57.0.451](https://modrinth.com/mod/jei/version/RI8WCow6)
