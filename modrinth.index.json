@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "1.3.0",
+  "versionId": "1.4.0",
   "name": "Mineline Create",
   "summary": "Klientpakke for Mineline sin Create-server (Create + JEI)",
   "files": [
@@ -109,6 +109,66 @@
         "https://cdn.modrinth.com/data/T9PomCSv/versions/fg9dTRz9/sable-neoforge-1.21.1-2.0.6.jar"
       ],
       "fileSize": 12986135
+    },
+    {
+      "path": "mods/cosmonautics-26.08.307.jar",
+      "hashes": {
+        "sha1": "9b70ebf3ff2beaee0ab0ba6c8f46643da3e4f4fc",
+        "sha512": "72ff1be7f31767eb64635a5fd827428410b0899fe5431f951bb4ab2a006ed105bf1cae24b803d51a5b18b067f5f956c493bb827573b22567e204b6b2d84a0de8"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/micg1iTH/versions/HuCMavv8/cosmonautics-26.08.307.jar"
+      ],
+      "fileSize": 22566115
+    },
+    {
+      "path": "mods/create-new-age-1.2.0+neoforge-mc1.21.1.jar",
+      "hashes": {
+        "sha1": "849df57070ffa75c2446b9c460d03f6b49fa089e",
+        "sha512": "5075c6482b800af7044b594ad694855e7d56f386cb0354967eafe99d77e84b4e26ee7f880d287672d24d84ea8086fd074b7695e46632f32f215b31ce859ada72"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/FTeXqI9v/versions/IwtuwMZy/create-new-age-1.2.0%2Bneoforge-mc1.21.1.jar"
+      ],
+      "fileSize": 1644485
+    },
+    {
+      "path": "mods/create_connected-1.3.3-mc1.21.1.jar",
+      "hashes": {
+        "sha1": "96ae45fa44cd7028a31b9613cb672009e811b145",
+        "sha512": "485675693980a266611669857fa9cd348e2a29140b87bf0a8ab3e13c3591422cceaa36b7a2eb90084d35ec1868c8eec9f924383bb4dada2dddcb72e9f09361b0"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Vg5TIO6d/versions/Xe7EqzfQ/create_connected-1.3.3-mc1.21.1.jar"
+      ],
+      "fileSize": 6786783
+    },
+    {
+      "path": "mods/Create Encased-1.21.1-1.9.0-ht3.jar",
+      "hashes": {
+        "sha1": "bc749c8ec3ad4fef7d5a052c904008971158f274",
+        "sha512": "ed27f640b2b30546ab2e5d8d56e6291b559ae76b1fe48b1521c0b9f10c238282a73a44e5781c71fc58088e6c8526ad5c01cf5ef54fadf5640d118ae53d8a67d4"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/hSSqdyU1/versions/t6MATlU9/Create%20Encased-1.21.1-1.9.0-ht3.jar"
+      ],
+      "fileSize": 3110804
     }
   ],
   "dependencies": {
